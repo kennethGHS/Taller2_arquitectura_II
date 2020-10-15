@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include <omp.h>
+#include "Practicos.h"
 
-int main() {
-    printf("Hello, World!\n");
+int main(){
     return 0;
 }
